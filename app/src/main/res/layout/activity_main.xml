@@ -9,7 +9,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Adam Rayhan Akas Nurfaza (H1D020037) Shift B, Praktikum Pemrograman Mobile"
+        android:text="Adam Rayhan Akas Nurfaza (H1D020037) Shift B Praktikum Pemrograman Mobile"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
