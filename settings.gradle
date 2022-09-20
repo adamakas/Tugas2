@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "Praktikum"
+rootProject.name = "Tugas 2 Praktikum Pemrograman Mobile"
 include ':app'
